@@ -1,11 +1,11 @@
 {
-    "name": "rockq-org.github.io",
+    "name": "Rockq研讨课",
     "version": "0.0.1",
     "description": "Rockq Documentation",
     "keywords": [
         ""
     ],
-    "homepage": "http://JSLite.io",
+    "homepage": "http://learning.rockq.org",
     "author": "Samurais <hailiang.hl.wang@gmail.com>",
     "repository": {
         "type": "git",
@@ -19,7 +19,12 @@
     "idoc": {
         "theme": "handbook",
         "md": [
-            "index.md"
+            "首页.md",
+            {
+                "ReactNative": [
+                    "课程介绍.md"
+                ]
+            }
         ]
     }
 }
