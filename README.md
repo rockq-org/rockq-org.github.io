@@ -28,5 +28,10 @@ scripts/cbs
 scripts/deploy
 ```
 
+Or add commit message
+```
+scripts/deploy "add more files"
+```
+
 # License
 Copyright 2016 Rockq members and contributors. MIT License (enclosed)
