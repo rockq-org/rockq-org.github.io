@@ -1,0 +1,21 @@
+{
+    "name": "rockq-org.github.io",
+    "version": "0.0.1",
+    "description": "Rockq Documentation",
+    "keywords": [
+        ""
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "Samurais <hailiang.hl.wang@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "handbook",
+        "md": [
+            "index.md"
+        ]
+    }
+}
