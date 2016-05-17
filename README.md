@@ -1,5 +1,7 @@
 # rockq-org.github.io
 
+[http://rockq-org.github.io/index.html](http://rockq-org.github.io/index.html)
+
 ## Install
 ```
 sudo npm install idoc -g

@@ -15,5 +15,5 @@ idoc clean
 idoc build
 # commit
 git add --all
-git commit -m "#1 update $1"
+git commit -m "#1 $1"
 git push origin master
