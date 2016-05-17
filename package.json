@@ -1,7 +1,7 @@
 {
     "name": "Rockq研讨课",
     "version": "0.0.1",
-    "description": "Rockq Documentation",
+    "description": "精益创新，竭尽分享。",
     "keywords": [
         ""
     ],
@@ -17,7 +17,7 @@
         "deploy": "git push -u origin gh-pages"
     },
     "idoc": {
-        "theme": "handbook",
+        "theme": "default",
         "md": [
             "首页.md",
             {
