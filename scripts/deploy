@@ -10,6 +10,10 @@ baseDir=$(cd `dirname "$0"`;pwd)
 # main 
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
 cd $baseDir/..
+# build
+idoc clean
+idoc build
+# commit
 git add --all
 git commit -m "#1 update $1"
 git push origin master
